@@ -1,4 +1,7 @@
-# api documentation for  [ember-resize (v0.0.17)](https://github.com/mike-north/ember-resize)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-resize.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-resize) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-resize.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-resize)
+# npmdoc-ember-resize
+
+#### api documentation for  [ember-resize (v0.0.17)](https://github.com/mike-north/ember-resize)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-resize.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-resize) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-resize.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-resize)
+
 #### Idiomatically handle window and view resizes in Ember.js
 
 [![NPM](https://nodei.co/npm/ember-resize.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-resize)
@@ -90,7 +93,8 @@
         "start": "ember server",
         "test": "ember try:testall"
     },
-    "version": "0.0.17"
+    "version": "0.0.17",
+    "bin": {}
 }
 ```
 
